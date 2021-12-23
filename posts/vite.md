@@ -22,7 +22,7 @@ Vite makes React dev fast. Like really fast. With HMR, changes you make trigger 
 
 Over the last few weeks, our new React template has helped our designers prototype complex UI components and enabled many of our engineering candidates to build out an entire web app in just a few hours during our (virtual) onsites. When you see it in action, it's easy to see why:
 
-<img src="images/vite/demo.gif" alt="React + Vite on Replit" style="width: 100%;"/>
+<img src="/images/vite/demo.gif" alt="React + Vite on Replit" style="width: 100%;/>
 
 ## How it works
 

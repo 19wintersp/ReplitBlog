@@ -8,12 +8,12 @@ categories: product,design
 
 Replit is a place where beginners, educators, and professionals alike can code and share their ideas collaboratively. Something that goes hand and hand with your source code is how you communicate it. We built [threads](https://blog.replit.com/threads), which allow you to leave contextual messages around code, and added better [markdown support](https://blog.replit.com/markdown-preview) for READMEs and other guides. However, we were missing a visual way for people to explain and collaborate around code. Today we're excited to announce support for draw files, powered by [excalidraw](https://excalidraw.com/).
 
-<img src="images/draw/botross.jpeg" alt="Bot Ross" style="width: 45%;"/>
+<img src="/images/draw/botross.jpeg" alt="Bot Ross" style="width: 45%;/>
 
 
 Any new file with the `.draw` extension will become a whiteboard to sketch shapes, draw freely, and add text. These files are multiplayer by default, anyone who joins your repl will be able to sketch and diagram along with you. During this period of remote collaboration, we've used draw files to sketch out problems with candidates during interviews, to diagram how our internal systems work, and to quickly prototype user flows.
 
-<img src="images/draw/draw.gif" alt="Example drawing" style="width: 100%;"/>
+<img src="/images/draw/draw.gif" alt="Example drawing" style="width: 100%;/>
 
 
  ### How it works

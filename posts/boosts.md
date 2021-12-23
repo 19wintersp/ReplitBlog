@@ -10,13 +10,13 @@ Our [Hacker plan](https://replit.com/site/pricing) has always been a great choic
 
 However, sometimes, even 4x is not enough. Whether you're building a [new Terminal](https://blog.replit.com/fig) or [playing Doom](https://blog.replit.com/native-graphics-love), you could blow past those resource limits pretty quickly. That's why today we're excited to announce Boosts!
 
-<img src="images/boosts/cover.jpg" alt="Boosts cover photo" style="width: 45%;"/>
+<img src="/images/boosts/cover.jpg" alt="Boosts cover photo" style="width: 45%;/>
 
 Boosts are a new addition to our Hacker plan that allow you to make your repls even faster. Boosted repls come with 4 vCPUs and 4 GB of RAM which is double the resources of standard Hacker repls (and 8x more than free repls). As of today, we're including 5 free boosts as part of the Hacker plan.
 
 To boost your repl, simply click on your repl's title to bring up the repl info card and click the "Add boost" button underneath the always on toggle like so:
 
-<img src="images/boosts/add-boost.gif" alt="Add boosts demo" style="width: 100%;"/>
+<img src="/images/boosts/add-boost.gif" alt="Add boosts demo" style="width: 100%;/>
 
 You'll notice the difference immediately if you're running a graphics or CPU intensive repl like this:
 

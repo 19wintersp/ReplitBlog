@@ -38,7 +38,7 @@ you don't see their avatar,
 you can click on the more users button
 and find them there like so:
 
-<img src="images/collaborative-coding/hover-avatar.gif" alt="Hover over avatar demo"/>
+<img src="/images/collaborative-coding/hover-avatar.gif" alt="Hover over avatar demo/>
 
 Observing someone will keep your editor in sync with theirs and
 follow their cursor as it moves, including when they switch files.
@@ -47,7 +47,7 @@ Your editor will also be highlighted
 with their avatar's color and display an indicator to remind you that
 you're observing them. Here's what it looks like:
 
-<img src="images/collaborative-coding/observe.gif" alt="Observe demo"/>
+<img src="/images/collaborative-coding/observe.gif" alt="Observe demo/>
 
 ## Filetree Presence
 
@@ -59,7 +59,7 @@ As they hop around to different files, so too will their avatars.
 This will let you get a sense of where everyone is in the repl which can be both
 fun and useful when you're hacking together.
 
-<img src="images/collaborative-coding/filetree-presence.png" alt="Filetree presence" style="width: 75%;"/>
+<img src="/images/collaborative-coding/filetree-presence.png" alt="Filetree presence" style="width: 75%;/>
 
 As time goes on, we plan to continue improving the multiplayer experience
 and removing the barriers to collaboration that many programmers still face today.

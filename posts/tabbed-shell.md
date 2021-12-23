@@ -16,7 +16,7 @@ Today, we're excited to announce that we're rolling out a redesign of the shell 
 tab next to the console. Although we've already had a shell, this new redesign helps make it a more
 integral part of the experience in a repl. Here's what it looks like:
 
-<img src="images/tabbed-shell/demo.gif" alt="Tabbed shell demo" style="width: 100% !important;"/>
+<img src="/images/tabbed-shell/demo.gif" alt="Tabbed shell demo" style="width: 100% !important;/>
 
 Now it'll be easier than ever to switch between viewing your program's output in the console
 and executing bash commands in the shell. This will also greatly benefit beginners that are new to Linux
